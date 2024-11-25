@@ -1,5 +1,12 @@
-## Next.js App Router Course - Starter
+# Next.js App Router Course - Starter
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## Chapter 01 - Getting Started
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Chapter 02 - CSS Styling
+
+- **(Q1)** What shape do you see when using the code snippet above?
+- **(A1)** [C] A black triangle
+- **(Q2)** What is one benefit of using CSS modules?
+- **(A2)** [B] Provide a way to make CSS classes locally scoped to components by default, reducing the risk of styling conflicts.
+- **(Q3)** Search for "clsx" in your code editor, what components use it to conditionally apply class names?
+- **(A3)** [A] `status.tsx` and `pagination.tsx`
