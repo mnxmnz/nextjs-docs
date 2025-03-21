@@ -1,4 +1,8 @@
-# Next.js App Router Course - Starter
+# Next.js App Router Course
+
+A dashboard project built following the official [Next.js App Router Course](https://nextjs.org/learn/dashboard-app).
+
+> 🌐 [VIEW DASHBOARD](https://learn-nextjs-eight-mocha.vercel.app)
 
 ## Chapter 01 - Getting Started [🔗](https://nextjs.org/learn/dashboard-app/getting-started)
 
