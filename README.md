@@ -106,13 +106,15 @@ app/
 
 워터폴이란 이전 요청의 완료 여부에 따라 달라지는 일련의 네트워크 요청을 의미합니다. 각 요청은 이전 요청이 데이터를 반환한 후에만 시작할 수 있습니다.
 
+![sequential-parallel-data-fetching](https://github.com/user-attachments/assets/0ac4f5f2-7582-4957-9a6c-966ea3fcc401)
+
 #### 7-2-1. Waterfall Issue
 
 이전 요청이 완료된 후에만 다음 요청을 시작할 수 있어서 성능 저하의 원인이 될 수 있습니다.
 
 #### 7-2-2. Solutions
 
-> Promise.all() / Promise.allSettled()
+> Promise.all / Promise.allSettled
 
 - 모든 데이터 요청을 동시에 시작합니다.
 - 네이티브 JavaScript 패턴을 사용해서 요청 시간을 단축할 수 있습니다.
