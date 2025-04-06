@@ -29,3 +29,5 @@
 ## 5. Where to place your Suspense boundaries?
 
 일반적으로 데이터 패칭을 관련 컴포넌트에서 직접 처리하고 해당 컴포넌트를 Suspense 로 감싸는 것을 권장한다.
+
+> [Quiz](./quiz.md)
