@@ -2,9 +2,13 @@
 
 ## 1. What is streaming?
 
+![server-rendering-with-streaming](https://github.com/user-attachments/assets/8012a98a-b74b-47f1-8e63-37732501b70d)
+
 스트리밍은 라우트를 작은 단위로 나눈 후 데이터를 순차적으로 전송하는 방식이다.
 
 ## 2. What are the benefits of streaming?
+
+![server-rendering-with-streaming-chart](https://github.com/user-attachments/assets/b6435322-5829-4363-9995-3627f4075540)
 
 - 데이터 로딩이 느려도 전체 페이지가 멈추지 않는다.
 - 모든 데이터가 로드되기 전에도 페이지의 일부를 사용자에게 제공할 수 있다.
