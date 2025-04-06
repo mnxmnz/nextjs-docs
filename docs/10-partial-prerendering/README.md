@@ -12,6 +12,8 @@ Next.js 에서는 데이터베이스 쿼리와 같은 동적 함수를 라우트
 
 Next.js 14 버전에서는 **Partial Prerendering(PPR)** 이라는 새로운 렌더링 방식을 도입했다. 하나의 라우트에서 정적 렌더링과 동적 렌더링을 모두 활용할 수 있다.
 
+![thinking-in-ppr](https://github.com/user-attachments/assets/ba3eda87-4fa1-4219-b705-5b6d75d6021c)
+
 사용자가 페이지를 방문하면 다음과 같이 동작한다.
 
 - 네비게이션 바와 제품 정보 등 기본적인 내용을 정적으로 로드한다.
