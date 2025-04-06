@@ -38,3 +38,8 @@
 
 - [공식 문서](https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering)
 - [문서 정리](./docs/08-static-and-dynamic-rendering)
+
+## 9. Streaming
+
+- [공식 문서](https://nextjs.org/learn/dashboard-app/streaming)
+- [문서 정리](./docs/09-streaming)
