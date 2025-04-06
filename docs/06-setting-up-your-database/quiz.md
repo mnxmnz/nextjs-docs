@@ -1,4 +1,4 @@
-# Chapter 06 - Setting Up Your Database
+# Setting Up Your Database
 
 ## Q1. What is 'seeding' in the context of databases?
 

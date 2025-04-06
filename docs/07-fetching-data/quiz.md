@@ -1,4 +1,4 @@
-# Chapter 07 - Fetching Data
+# Fetching Data
 
 ## Q1. In which of these scenarios should you not query your database directly?
 

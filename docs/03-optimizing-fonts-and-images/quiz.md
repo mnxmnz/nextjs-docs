@@ -1,4 +1,4 @@
-# Chapter 03 - Optimizing Fonts and Images
+# Optimizing Fonts and Images
 
 ## Q1. How does Next.js optimize fonts?
 

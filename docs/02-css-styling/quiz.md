@@ -1,4 +1,4 @@
-# Chapter 02 - CSS Styling
+# CSS Styling
 
 ## Q1. What shape do you see when using the code snippet above?
 
