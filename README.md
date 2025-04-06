@@ -43,3 +43,8 @@
 
 - [공식 문서](https://nextjs.org/learn/dashboard-app/streaming)
 - [문서 정리](./docs/09-streaming)
+
+## 10. Partial Prerendering
+
+- [공식 문서](https://nextjs.org/learn/dashboard-app/partial-prerendering)
+- [문서 정리](./docs/10-partial-prerendering)
